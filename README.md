@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ozgedincer&show_icons=true">
+
 
 # Hey, I'm Ozge Dincer! 
 I'm intern at **Bilge Teknoloji**.
