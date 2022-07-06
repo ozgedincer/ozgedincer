@@ -1,7 +1,5 @@
-
-
-# Hey, I'm Ozge Dincer! 
-I'm intern at **Bilge Teknoloji**.
+#                                     Hey, I'm Ozge Dincer! 
+                                      I'm intern at **Bilge Teknoloji**.
 
 
 [![](https://img.shields.io/linkedin/follow/ozgedincer?style=social)](https://https://www.linkedin.com/in/ozgedincer/)
