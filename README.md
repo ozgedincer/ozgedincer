@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ozge</h1>
-<h3 align="center">I'm a senior student in Information Systems Engineering</h3>
 
 
 - 🌱 I’m currently learning **.NET**
