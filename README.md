@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ozge</h1>
 
 
-- 🌱 I’m currently learning **.NET**
-
 - 📫 How to reach me **dncerozge@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
